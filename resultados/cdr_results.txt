@@ -1,0 +1,65 @@
+g0406
+CDR Predicho: 0.55
+CDR Ground Truth: 0.58
+Diagnostico: Puede ser glaucoma
+
+g0408
+CDR Predicho: 0.57
+CDR Ground Truth: 0.39
+Diagnostico: Puede ser glaucoma
+
+g0414
+CDR Predicho: 0.62
+CDR Ground Truth: 0.25
+Diagnostico: Glaucoma avanzado
+
+g0428
+CDR Predicho: 0.54
+CDR Ground Truth: 0.42
+Diagnostico: Puede ser glaucoma
+
+n0004
+CDR Predicho: 0.40
+CDR Ground Truth: 0.21
+Diagnostico: Sano
+
+n0005
+CDR Predicho: 0.50
+CDR Ground Truth: 0.25
+Diagnostico: Puede ser glaucoma
+
+n0012
+CDR Predicho: 0.45
+CDR Ground Truth: 0.26
+Diagnostico: Puede ser glaucoma
+
+n0013
+CDR Predicho: 0.38
+CDR Ground Truth: 0.24
+Diagnostico: Sano
+
+n0014
+CDR Predicho: 0.18
+CDR Ground Truth: 0.26
+Diagnostico: Sano
+
+n0044
+CDR Predicho: 0.36
+CDR Ground Truth: 0.23
+Diagnostico: Sano
+
+n0045
+CDR Predicho: 0.29
+CDR Ground Truth: 0.21
+Diagnostico: Sano
+
+n0047
+CDR Predicho: 0.39
+CDR Ground Truth: 0.26
+Diagnostico: Sano
+
+n0049
+CDR Predicho: 0.36
+CDR Ground Truth: 0.26
+Diagnostico: Sano
+

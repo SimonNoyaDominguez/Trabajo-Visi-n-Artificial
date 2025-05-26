@@ -1,0 +1,2 @@
+Media IoU Copa: 0.5203
+Media IoU Disco: 0.9905
